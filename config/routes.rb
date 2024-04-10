@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'janken/index'
   get 'operations/index'
   get 'tests/top'
   get 'tests/home'
