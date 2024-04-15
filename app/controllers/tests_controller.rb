@@ -7,4 +7,10 @@ class TestsController < ApplicationController
 
   def home
   end
+
+  def event
+  end
+
+  def this
+  end
 end

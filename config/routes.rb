@@ -4,5 +4,7 @@ Rails.application.routes.draw do
   get 'tests/top'
   get 'tests/home'
   get 'tests/about'
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  get 'tests/event'
+  get 'tests/this'
+  get 'tests/children'
 end
