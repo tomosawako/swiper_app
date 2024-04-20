@@ -7,4 +7,5 @@ Rails.application.routes.draw do
   get 'tests/event'
   get 'tests/this'
   get 'tests/children'
+  get 'tests/index1'
 end

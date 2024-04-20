@@ -1,3 +1,21 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  margin: 50px 0;
+}
+.box {
+  height: 300px;
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto 50px;
+  background-color: #eee;
+
 .box1 {
   display: none;
   background-color: #FF0000;
@@ -42,6 +60,13 @@
 
 .bg4 {
   background-color: #FFDDDD;
+}
+
+#hm-icon{
+  position: fixed;
+  right: 20px;
+  top: 20px;
+  z-index: 10;
 }
 
 

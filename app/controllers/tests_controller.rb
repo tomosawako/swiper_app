@@ -13,4 +13,7 @@ class TestsController < ApplicationController
 
   def this
   end
+
+  def index1
+  end
 end
